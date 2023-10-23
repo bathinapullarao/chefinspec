@@ -1,0 +1,4 @@
+https://docs.chef.io/inspec/install/    <--installation and basic commmands in gcp,aws,azure
+https://github.com/inspec/inspec-gcp    <--most resent chef inspec apis
+https://googleapis.dev/ruby/google-api-client/latest/Google/Apis.html    <--class list
+https://developers.google.com/apis-explorer/#p/data/datafusion/v1/       <--google apis explorer
